@@ -2,6 +2,8 @@ This is based on https://github.com/rsubtil/controller_icons/?tab=readme-ov-file
 This addon let you to show icons of the current devices that players are using (including keyboard) or in case that it doesn't recognize the controller brand/name it will auto fallback to xbox360 icons.
 You could run the demo showcase to see how it is working.
 
+Created and used for my game Fat Cat Fest  https://store.steampowered.com/app/3259080/The_Fat_Cat_Fest/
+
 # Features
 - Show keyboard or controller icons to each player based on their device. This allow for automatic icon glyphs on local multiplayer
 - Handles generic controller paths to support many different button icons
