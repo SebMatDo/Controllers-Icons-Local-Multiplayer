@@ -19,7 +19,7 @@ class_name ControllerIconTexture
 ## texture. You might also need to force a redraw with methods such as
 ## [method CanvasItem.queue_redraw].
 ##
-## @tutorial(Online documentation): https://github.com/mamama#################
+## @tutorial(Online documentation): https://github.com/rsubtil/controller_icons/?tab=readme-ov-file
 
 ## A path describing the desired icon. This is a generic path that can be one
 ## of three different types:
