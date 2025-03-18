@@ -1,3 +1,5 @@
+# THIS ADDON IS NOW DEPRECATED, as now the original addon fixed this issue with a better approach PLEASE USE THE ORIGINAL ONE, 
+
 This is based on https://github.com/rsubtil/controller_icons/?tab=readme-ov-file for Godot 4.x version
 This addon let you to show icons of the current devices that players are using (including keyboard) or in case that it doesn't recognize the controller brand/name it will auto fallback to xbox360 icons.
 You could run the demo showcase to see how it is working.
